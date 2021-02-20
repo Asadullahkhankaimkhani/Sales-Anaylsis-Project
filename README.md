@@ -7,3 +7,5 @@ Task # 1  Cleaing the data
 step wise Explanation
 
 Graphical Representation
+
+Asking Right Questions
