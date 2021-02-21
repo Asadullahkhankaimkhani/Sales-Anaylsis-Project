@@ -2,6 +2,7 @@
  
 Annual Sales Report Analysis 2019
 
+
 Task # 1  Cleaing the data
 
 step wise Explanation
@@ -9,3 +10,5 @@ step wise Explanation
 Graphical Representation
 
 Asking Right Questions
+
+States wise Comparsion
