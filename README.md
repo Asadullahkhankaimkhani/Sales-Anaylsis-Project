@@ -11,4 +11,3 @@ Graphical Representation
 
 Asking Right Questions
 
-States wise Comparsion
