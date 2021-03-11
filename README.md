@@ -9,5 +9,5 @@ step wise Explanation
 
 Graphical Representation
 
-Asking Right Questions
+
 
